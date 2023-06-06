@@ -1,0 +1,9 @@
+.mat-icon {
+    font-size: 150px;
+    height: 150px ;
+    width: 150px;
+}
+
+.icon-1_5x {
+    transform: scale(1.5);
+}
